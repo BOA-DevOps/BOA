@@ -5,3 +5,4 @@ Devs:
    Akeju
    Akan
    Jamil
+   Fareed
