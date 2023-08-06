@@ -1,5 +1,6 @@
-List:
+Devs:
    enaikeleodion
    kelvin-omoh
    Raphael
    Akeju
+   Akan
