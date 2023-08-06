@@ -4,3 +4,4 @@ Devs:
    Raphael
    Akeju
    Akan
+   Fareed
