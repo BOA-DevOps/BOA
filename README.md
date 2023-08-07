@@ -1,2 +1,2 @@
 # BOA
-This is for managing BOA software projects
+This is for managing BOA software application projects
